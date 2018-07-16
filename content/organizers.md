@@ -49,3 +49,6 @@ Steven Dow & Mary Lou Maher (C&C2019 co-chairs)
 
 # Local Liaison:
 [Wendy Kellogg & John Thomas](mailto:localchairs@dis2019.acm.org)
+
+# Webmaster:
+[Javier Tibau](mailto:jtibau@vt.edu)
