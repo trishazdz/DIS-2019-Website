@@ -35,6 +35,9 @@ Silvia Lindtner & Lisa Nathan
 [demochairs [at] dis2019.acm.org](mailto:demochairs@dis2019.acm.org)  
 Stacy Kuznetzov & Scott Davidoff
 
+# Art Chairs:
+Sheldon Brown & Jonas Fritsch
+
 # Accessibility & Diversity:
 [accessibilitychair [at] dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org)  
 Stacy Branham
