@@ -104,21 +104,7 @@ In DIS 2019, Pictorials follow a rigorous blind peer review process similar to F
 | 2  | Chairs check the Pictorials, report possible conflicts of interest, and assign Pictorials to two ACs (called 1AC and 2AC)  | By 25 January 2019  |
 | 3  | 1AC assigns two reviewers and 2AC assigns one reviewer  | By 1 February 2019 |
 | 4  | Review process | 2 February - 8 March 2019  |
-| 5  | After receiving all reviews and scores, 1AC writes a metareview, scores the papers, and divides them in four categories:
- 
-**A - Clear rejects:**
-if a Pictorial is below acceptance threshold (it is calculated after all reviews are in, but 3.2 is a good approximation), the paper is rejected. Only 1AC metareview is needed.
- 
-**B - Clear Accepts:**
-if a Pictorial is a clear accept (usually above 4.0), 1AC can recommend accepting the paper. Only 1AC metareview is needed.
- 
-**C - Borderline:**
-2AC writes a second meta-review if the Pictorial is in the acceptance range (usually in 3.2 - 4.0 range)
- 
-**D - Papers with large standard deviation:**
-2AC writes second meta-review in case of conflicting reviews. If 1AC and 2AC disagree, they can transfer the case to SC chairs.
- 
-1AC writes a recommendation and submits it to SCs  |   |
+| 5  | After receiving all reviews and scores, 1AC writes a metareview, scores the papers, and divides them in four categories:<ul><li>**A - Clear rejects:** If a Pictorial is below acceptance threshold (it is calculated after all reviews are in, but 3.2 is a good approximation), the paper is rejected. Only 1AC metareview is needed.</li><li>**B - Clear Accepts:** If a Pictorial is a clear accept (usually above 4.0), 1AC can recommend accepting the paper. Only 1AC metareview is needed.</li><li>**C - Borderline:** 2AC writes a second meta-review if the Pictorial is in the acceptance range (usually in 3.2 - 4.0 range)</li><li>**D - Papers with large standard deviation:** 2AC writes second meta-review in case of conflicting reviews. If 1AC and 2AC disagree, they can transfer the case to SC chairs.</li></ul>1AC writes a recommendation and submits it to SCs. |   |
 | 6  | SCs will review the scores and meta-reviews for each of their assigned papers and make preliminary decisions  |   |
 | 7  | PC meeting decides which Pictorials are accepted to the conference  |   |
 | 8  | Author Notifications  | 21 March 2019  |
