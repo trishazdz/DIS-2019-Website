@@ -31,6 +31,7 @@ As design perspectives have increasingly become integrated in HCI practice and r
  
 # What to submit?
 Submissions may cover diverse topics that include (but are not limited to):
+
 - Design processes and decisions affecting the material or interactive elements of prototypes
 - Visual materials that provoke thought about interactivity
 - Methodological approaches to design
@@ -41,6 +42,7 @@ Submissions may cover diverse topics that include (but are not limited to):
 
 # Presentation quality
 In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):
+
 - Design sketches
 - Annotated images
 - Illustrations and diagrams
@@ -50,6 +52,7 @@ In pictorials, production values and visual quality matters. We encourage author
 
 # Checklist for authors
 Other important factors to consider in creating a Pictorial:
+
 - Are images/diagrams emphasized over text as the primary means of communicating the research contribution?
 - Does your work require a Pictorial format, or would it be clearer in textual form?
 - Is the production value for the images and/or diagrams of high quality?
@@ -60,6 +63,7 @@ Other important factors to consider in creating a Pictorial:
 - Does the placement of images and text compose a good narrative that makes effective use of the format?
 
 Another feature of Pictorials is that they must turn into engaging presentations at the DIS conference. Before submitting a pictorial, please think about the presentation:
+
 - ‍Does the pictorial require visuals?
 - What would these visuals be?
 - Can you build a visually engaging presentation around them?
@@ -68,6 +72,7 @@ Another feature of Pictorials is that they must turn into engaging presentations
 
 # Checklist for reviewers
 Does the Pictorial:
+
 - Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?
 - Does the Pictorial make a contribution to HCI (and beyond)?
 - Is the Pictorial well-situated within other DIS and HCI work?
@@ -82,7 +87,7 @@ Please do not submit work you have submitted elsewhere with a few images added. 
  
 You must be the author and copyright holder of all materials you submit, particularly all visual materials. Submitted work must comply with ACM policies.
  
-# Format
+# Format {#pictorial_format}
 All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.
  
 Pictorials should be submitted in the DIS 2019 SIGCHI Extended Abstracts Format, and not exceed 12 pages, excluding references.
@@ -91,7 +96,7 @@ The first page of the submission should include the submission’s title, author
  
 Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:
  
-**MISSING LINK**: [DISPictorials2019.zip]()
+**MISSING LINK**: DISPictorials2019.zip
  
 We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.
  
