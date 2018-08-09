@@ -88,7 +88,7 @@ You must be the author and copyright holder of all materials you submit, particu
 # Format {#pictorial_format}
 All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.
  
-Pictorials should be submitted in the DIS 2019 SIGCHI Extended Abstracts Format, and not exceed 12 pages, excluding references.
+Pictorials should be submitted in the DIS 2019 [SIGCHI Extended Abstracts Format](https://sigchi.org/templates/), and not exceed 12 pages, excluding references.
  
 The first page of the submission should include the submission’s title, author(s) and their affiliation(s) (leave blank for double blind review), and a written abstract of no more than 100 words succinctly describing the background and context of the pictorial as well as its contribution to the DIS community.
  
