@@ -1,7 +1,5 @@
 ---
 title: "Sponsorship"
-menu:
-    submit: {}
 ---
 
 In June 2019, the premier ACM conferences DIS and C&C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.  

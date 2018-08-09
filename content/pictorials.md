@@ -1,7 +1,5 @@
 ---
 title: "Pictorials"
-menu:
-    submit: {}
 ---
 
 # What are Pictorials?

@@ -1,7 +1,5 @@
 ---
 title: "Provocations and Works-in-Progress"
-menu:
-    submit: {}
 ---
 
 The DIS 2019 Provocations and Works-in-Progress (PWiP) track is a format that allows authors to propose novel, in-progress, and thought provoking research that may emphasize different values than what are usually promoted. The PWiP format is intended to facilitate discussion between authors and conference attendees. We welcome all submissions related to the design of interactive systems as well as the conference theme of Contesting Borders and Intersections.
@@ -46,4 +44,3 @@ Aarhus University
 
 Norman Su  
 Indiana University
-

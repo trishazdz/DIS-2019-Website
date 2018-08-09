@@ -1,7 +1,5 @@
 ---
 title: "Papers"
-menu:
-    submit: {}
 ---
 
 Full papers published at DIS2019 are ACM archival publications and will be made available through the [ACM in the Digital Library](http://dl.acm.org). DIS 2019 will be held jointly with the [Creativity and Cognition (C&C) 2019 conference](http://cc.acm.org/2019/). There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&C and DIS.
@@ -29,7 +27,7 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 # Important Dates
 
 - **Abstract and title due:** Tuesday, January 15, 2019
-- **Paper submission deadline:** Friday, Jan 18, 2019
+- **Paper submission deadline:** Friday, January 18, 2019
 - **External reviews due:** Friday, March 1, 2019
 - **Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):** Mon/Tues, March 18 and 19, 2019
 - **Paper notifications to authors:** Thursday, March 21, 2019
@@ -40,10 +38,10 @@ At DIS2019, all submissions will be assessed based on their [broader impact to s
 # Preparing and Submitting Your Submissions {#preparing}
 
 ## Abstract and Title Submissions
-**say something about the length of the abstract here and other necessary info about abstract and title submission, including the abstract can be edited later, etc.**
+DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.
 
 ## Paper Formatting and Length
-All submissions should be formatted using the SIGCHI Conference Publications Format. Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
+All submissions should be formatted using the [SIGCHI Conference Publications Format](https://sigchi.org/templates/). Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.
 
 We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.
 

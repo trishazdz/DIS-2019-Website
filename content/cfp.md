@@ -1,7 +1,5 @@
 ---
 title: "Call for Participation"
-menu:
-    submit: {}
 ---
 
 The ACM conference on Designing Interactive Systems (DIS) is the premier, international, and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interactive systems research, design, and practice.
