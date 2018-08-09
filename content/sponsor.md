@@ -10,7 +10,7 @@ Sponsoring this joint event is an ideal way to demonstrate your organization's c
 
 All sponsorship will go towards supporting both conferences.  We offer five corporate support levels: Platinum, Gold, Silver, Bronze, and Friends.  See the benefits and costs below.
 
-Interested in sponsoring DIS and [C&C 2019](https://cc.acm.org/2019/sponsor.php)? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.cam.org).
+Interested in sponsoring DIS2019 and C&C2019? Please contact the [Sponsorship Chairs](mailto:sponsor2019@cc.cam.org).
 
 # Platinum sponsors
 Contribution of $20,000 or more:
@@ -57,7 +57,7 @@ Contribution of $5,000 or more:
 - Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.
 
 
-# Friends of C&C and DIS
+# Friends of DIS2019 and C&C2019
 Contribution of $1,000 or more:
 
 - Company logo on signage at both conferences and on both conference websites.

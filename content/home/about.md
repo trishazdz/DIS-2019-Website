@@ -1,9 +1,7 @@
 ---
-title: "ACM Designing Interactive Systems 2019"
+title: "ACM Designing Interactive Systems 2019<br><h2>San Diego, California - June 23 to 28, 2019</h2>"
 description: "San Diego, California - June 23 to 28, 2019"
 ---
-
-## San Diego, California - June 23 to 28, 2019
 
 # Contesting Borders and Intersections
 
