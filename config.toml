@@ -15,7 +15,7 @@ title = "DIS 2019"
 # To display a copyright symbol, type `&copy;`.
 #copyright = "&copy; 2018"
 
-theme = "academic"
+theme = "paper"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

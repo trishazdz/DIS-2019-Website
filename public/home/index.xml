@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on DIS 2019</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on DIS 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ACM Designing Interactive Systems 2019&lt;br&gt;&lt;h2&gt;San Diego, California - June 23 to 28, 2019&lt;/h2&gt;</title>
+      <link>/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Contesting Borders and Intersections The ACM conference on Designing Interactive Systems (DIS) is the premier international and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interaction systems research, design, and practice.
+The theme for ACM DIS2019 is &amp;ldquo;Contesting Borders and Intersections.&amp;rdquo; Both borders and intersections are simultaneously about separation, margins, and friction as well as opportunities, promises, and imaginaries where alternative and diverse modes of engagements can be made possible and unfold.</description>
+    </item>
+    
+  </channel>
+</rss>

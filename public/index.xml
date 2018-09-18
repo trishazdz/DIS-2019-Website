@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DIS 2019 on DIS 2019</title>
+    <link>/</link>
+    <description>Recent content in DIS 2019 on DIS 2019</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Call for Participation</title>
+      <link>/cfp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cfp/</guid>
+      <description>
+
+&lt;p&gt;The ACM conference on Designing Interactive Systems (DIS) is the premier, international, and interdisciplinary conference encompassing all issues related to the design and deployment of interactive systems where designers, artists, theorists, psychologists, user experience researchers, systems engineers and many more come together to debate and shape the future of interactive systems research, design, and practice.&lt;/p&gt;
+
+&lt;h2 id=&#34;theme&#34;&gt;THEME&lt;/h2&gt;
+
+&lt;p&gt;The theme for ACM DIS2019 is “Contesting Borders and Intersections.” Both borders and intersections are simultaneously about separation, margins, and friction as well as opportunities, promises, and imaginaries where alternative and diverse modes of engagements can be made possible and unfold.  With this theme, we encourage submissions that critique, resist, and/or reimagine taken-for-granted boundaries in interactive design research and practices.&lt;/p&gt;
+
+&lt;p&gt;Full papers published at DIS2019 are ACM archival publications and will be made available through the &lt;a href=&#34;http://dl.acm.org&#34; target=&#34;_blank&#34;&gt;ACM in the Digital Library&lt;/a&gt;.  Other submission categories at DIS2019 that will be included in the ACM Digital Library are Pictorials, Provocations/Work in Progress, Doctoral Consortium, Demos, and Workshop Proposals. All represent significant contributions to the field of HCI and interaction design. All of the DIS proceedings are in a public version of the Digital Library for one month starting on the first day of the conference and accessible for one year.&lt;/p&gt;
+
+&lt;p&gt;DIS 2019 will be held in San Diego, CA just forty miles north of the sometimes contested border between Mexico and the United States. Breaking down another border, DIS 2019 will be held jointly with the Creativity and Cognition (C&amp;amp;C) 2019 conference. There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&amp;amp;C and DIS.&lt;/p&gt;
+
+&lt;h2 id=&#34;papers&#34;&gt;PAPERS&lt;/h2&gt;
+
+&lt;p&gt;DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences):&lt;/p&gt;
+
+&lt;h3 id=&#34;critical-computing-and-design-theory&#34;&gt;Critical Computing and Design Theory&lt;/h3&gt;
+
+&lt;p&gt;Critical computing and design theory have contributed to one another for decades. This subcommittee seeks papers that carry this work into a new generation&amp;ndash;exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing.&lt;/p&gt;
+
+&lt;h3 id=&#34;design-methods-and-processes&#34;&gt;Design Methods and Processes&lt;/h3&gt;
+
+&lt;p&gt;Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design.&lt;/p&gt;
+
+&lt;h3 id=&#34;experiences-artifacts-and-technology&#34;&gt;Experiences, Artifacts, and Technology&lt;/h3&gt;
+
+&lt;p&gt;Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered.&lt;/p&gt;
+
+&lt;h3 id=&#34;change-through-design&#34;&gt;Change Through Design&lt;/h3&gt;
+
+&lt;p&gt;Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars.&lt;/p&gt;
+
+&lt;h2 id=&#34;pictorials&#34;&gt;PICTORIALS&lt;/h2&gt;
+
+&lt;p&gt;As design perspectives have increasingly become integrated in HCI practice and research, new approaches are needed to communicate design practices, processes, products and artifacts to the HCI community. Pictorials may have a practical nature, a theoretical nature or both. Pictorials are papers in which the visual components (e.g. diagrams, sketches, illustrations, renderings, photographs, annotated photographs, collages) are the primary means of conveying information with at least, if not more, importance as the accompanying text.  Through DIS Pictorials, design practitioners in academia, industry, non-profits, or collectives are encouraged to express and unpack their design concepts, practices and projects in rich, heavily visual ways. This format helps foster discussions among authors, conference attendees, and the wider community through the sharing of methods, insights and lessons learned from engaging in the design of interactive systems and artifacts.&lt;/p&gt;
+
+&lt;h2 id=&#34;provocations-and-works-in-progress&#34;&gt;PROVOCATIONS and WORKS-IN-PROGRESS&lt;/h2&gt;
+
+&lt;p&gt;The DIS 2019 Provocations and Works-in-Progress (PWiP) track is a format that allows authors to propose novel, in-progress, and thought provoking research that may emphasize different values than what are usually promoted. The PWiP format is intended to facilitate discussion between authors and conference attendees. We welcome all submissions related to the design of interactive systems, particularly those design research contributions that value:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Novelty over evidence (You do not need a finished user study!)&lt;/li&gt;
+&lt;li&gt;Provocation over generalization (You do not need to make everyone happy!)&lt;/li&gt;
+&lt;li&gt;Design making over design guidelines (Why not show us, rather than tell?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;worskshops&#34;&gt;WORSKSHOPS&lt;/h2&gt;
+
+&lt;p&gt;Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.&lt;/p&gt;
+
+&lt;p&gt;Since DIS and C&amp;amp;C will share the conference venue, workshops that would be of particular interest to attendees of C&amp;amp;C as well as DIS, are encouraged. The Workshop Chairs of C&amp;amp;C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/organizers/</guid>
+      <description>
+
+&lt;h2 id=&#34;conference-chairs&#34;&gt;Conference Chairs:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:generalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;generalchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Steve Harrison &amp;amp; Shaowen Bardzell&lt;/p&gt;
+
+&lt;h2 id=&#34;associate-chairs&#34;&gt;Associate Chairs:&lt;/h2&gt;
+
+&lt;p&gt;Steven Dow &amp;amp; Mary Lou Maher (C&amp;amp;C2019 co-chairs)&lt;/p&gt;
+
+&lt;h2 id=&#34;technical-program-chairs&#34;&gt;Technical Program Chairs:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:technicalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;technicalchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Carman Neustaedter &amp;amp; Deborah Tatar&lt;/p&gt;
+
+&lt;h2 id=&#34;doctoral-consortium&#34;&gt;Doctoral Consortium:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:dcchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;dcchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Susanne Bødker &amp;amp; John Bowers&lt;/p&gt;
+
+&lt;h2 id=&#34;pictorials&#34;&gt;Pictorials:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:pictorialchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;pictorialchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Kristina Anderson &amp;amp; Shad Gross&lt;/p&gt;
+
+&lt;h2 id=&#34;provocations-wips&#34;&gt;Provocations / WIPS:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:provocationschairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;provocationschairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Lone Koefoed Hansen &amp;amp; Norman Su&lt;/p&gt;
+
+&lt;h2 id=&#34;workshops&#34;&gt;Workshops:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:workshopchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;workshopchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Silvia Lindtner &amp;amp; Lisa Nathan&lt;/p&gt;
+
+&lt;h2 id=&#34;demos&#34;&gt;Demos:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:demochairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;demochairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Stacy Kuznetzov &amp;amp; Scott Davidoff&lt;/p&gt;
+
+&lt;h2 id=&#34;art-chairs&#34;&gt;Art Chairs:&lt;/h2&gt;
+
+&lt;p&gt;Sheldon Brown &amp;amp; Jonas Fritsch&lt;/p&gt;
+
+&lt;h2 id=&#34;accessibility-diversity&#34;&gt;Accessibility &amp;amp; Diversity:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:accessibilitychair@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;accessibilitychair [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Stacy Branham&lt;/p&gt;
+
+&lt;h2 id=&#34;publicity-social-media&#34;&gt;Publicity/Social Media:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:publicitymediachairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;publicitymediachairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Chih-Sheng Su, Anicia Peters, Nicolai Hansen &amp;amp; Sabrina Hauser&lt;/p&gt;
+
+&lt;h2 id=&#34;local-liaison&#34;&gt;Local Liaison:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:localchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;localchairs [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Lilly Irani, Wendy Kellogg &amp;amp; John Thomas&lt;/p&gt;
+
+&lt;h2 id=&#34;webmaster&#34;&gt;Webmaster:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:webmaster@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;jtibau [at] vt.edu&lt;/a&gt;&lt;br /&gt;
+Javier Tibau&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;paper-sub-committees&#34;&gt;Paper Sub-Committees&lt;/h2&gt;
+
+&lt;h3 id=&#34;critical-computing-and-design-theory&#34;&gt;Critical Computing and Design Theory:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:theory_criticalcomputing_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;theory_criticalcomputing_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Paul Dourish &amp;amp; Jeffery Bardzell&lt;/p&gt;
+
+&lt;h3 id=&#34;design-methods-and-processes&#34;&gt;Design Methods and Processes:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:methods_processes_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;methods_processes_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Ellen Do &amp;amp; John Zimmerman&lt;/p&gt;
+
+&lt;h3 id=&#34;experience-artifacts-and-technology&#34;&gt;Experience, Artifacts, and Technology:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:artifacts_experiences_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;artifacts_experiences_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Rogerio de Paula &amp;amp; Shaun Lawson&lt;/p&gt;
+
+&lt;h3 id=&#34;change-through-design&#34;&gt;Change Through Design:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:change_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;change_sc [at] dis2019.acm.org&lt;/a&gt;&lt;br /&gt;
+Tone Bratteteig &amp;amp; Josh Tennenbaum&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/papers/</guid>
+      <description>
+
+&lt;p&gt;Full papers published at DIS2019 are ACM archival publications and will be made available through the &lt;a href=&#34;http://dl.acm.org&#34; target=&#34;_blank&#34;&gt;ACM in the Digital Library&lt;/a&gt;. DIS 2019 will be held jointly with the &lt;a href=&#34;http://cc.acm.org/2019/&#34; target=&#34;_blank&#34;&gt;Creativity and Cognition (C&amp;amp;C) 2019 conference&lt;/a&gt;. There will be some overlapping programs to strengthen the dialogues between these two related communities, however, authors must choose which conference to submit to — submissions will not be shared or moved between C&amp;amp;C and DIS.&lt;/p&gt;
+
+&lt;h1 id=&#34;subcommittees&#34;&gt;Subcommittees&lt;/h1&gt;
+
+&lt;p&gt;DIS2019 includes the following four subcommittees for Paper submissions (please note that they are different from previous DIS conferences):&lt;/p&gt;
+
+&lt;h2 id=&#34;critical-computing-and-design-theory&#34;&gt;Critical Computing and Design Theory&lt;/h2&gt;
+
+&lt;p&gt;Critical computing and design theory have contributed to one another for decades. This subcommittee seeks papers that carry this work into a new generation&amp;ndash;exploring the relationships among design inquiry, politics, aesthetics, ethics, and craftsmanship as well as unpacking the notion of criticality in design and computing. &lt;a href=&#34;mailto:theory_criticalcomputing_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Contact the subcommittee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;design-methods-and-processes&#34;&gt;Design Methods and Processes&lt;/h2&gt;
+
+&lt;p&gt;Share your inventions and insights that open up new spaces for design, allow for engagement with new, difficult to access communities, and enable designers to play with exciting new materials. This subcommittee seeks papers that document, innovate and/or advance the methods and processes used by UX and service design practitioners; user researchers from industry, academia, and NGOs; and academic design researchers working in HCI and interaction design. &lt;a href=&#34;mailto:methods_processes_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Contact the subcommittee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;experiences-artifacts-and-technology&#34;&gt;Experiences, Artifacts, and Technology&lt;/h2&gt;
+
+&lt;p&gt;Interactions with digital artifacts and technologies are an inescapable facet of our everyday experience. This subcommittee seeks papers that explore new relationships and intersections amongst and between experiences, artifacts and technologies, and the ways in which meaningful and impactful interactions are designed, created and engendered. &lt;a href=&#34;mailto:artifacts_experiences_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Contact the subcommittee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;change-through-design&#34;&gt;Change through Design&lt;/h2&gt;
+
+&lt;p&gt;Design has the potential to enact positive change and/or tackle large-scale and complex societal, cultural, economic, environmental, and/or political challenges in the world. What are the political, ethical, and moral dimensions of design? Who is allowed to participate in design processes, and who are our designs for? This subcommittee seeks papers about design activism discourses, approaches, processes, tools, and inspirational cases/exemplars. &lt;a href=&#34;mailto:change_sc@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Contact the subcommittee&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;special-note-on-broader-impact&#34;&gt;Special Note on Broader Impact&lt;/h1&gt;
+
+&lt;p&gt;At DIS2019, all submissions will be assessed based on their &lt;a href=&#34;https://acm-fca.org/2018/03/29/negativeimpacts/&#34; target=&#34;_blank&#34;&gt;broader impact to society&lt;/a&gt;. We encourage authors to address the positive and negative, actual and potential, and/or pragmatic significance of their work; that is, they should engage with substantive and reflective discussions of the impact of their research beyond a narrow intellectual contribution to the field.&lt;/p&gt;
+
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Abstract and title due:&lt;/strong&gt; Tuesday, January 15, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper submission deadline:&lt;/strong&gt; Friday, January 18, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;External reviews due:&lt;/strong&gt; Friday, March 1, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Virtual Program Committee Meeting with all Associate Chairs (AC’s), Subcommittee Chairs (SC’s), and Technical Chairs (TC’s) (General Chairs (GC’s) will observe):&lt;/strong&gt; Mon/Tues, March 18 and 19, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paper notifications to authors:&lt;/strong&gt; Thursday, March 21, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Papers camera ready deadline:&lt;/strong&gt; Wednesday, April 17, 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conference:&lt;/strong&gt; June 23-29, 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;preparing&#34;&gt;Preparing and Submitting Your Submissions&lt;/h1&gt;
+
+&lt;h2 id=&#34;abstract-and-title-submissions&#34;&gt;Abstract and Title Submissions&lt;/h2&gt;
+
+&lt;p&gt;DIS 2019 has two submission deadlines for papers.  The first deadline, January 15, requires you to submit a title, abstract of less than 150 words, and meta-data for your paper, including subcommittee preferences.   We will use this information to help plan the specifics of the review process and subcommittee work.  The second deadline, January 18, is for the final version of your paper.  You can also update your paper title and abstract as needed.&lt;/p&gt;
+
+&lt;h2 id=&#34;paper-formatting-and-length&#34;&gt;Paper Formatting and Length&lt;/h2&gt;
+
+&lt;p&gt;All submissions should be formatted using the &lt;a href=&#34;https://sigchi.org/templates/&#34; target=&#34;_blank&#34;&gt;SIGCHI Conference Publications Format&lt;/a&gt;. Please use the most recent SIGCHI Papers template in either Word or LaTeX format. Papers should be no longer than 10 pages, excluding the reference section. This includes all figures, tables, appendices, and an abstract of less than 150 words. References do not count towards the page limits. Submissions that are over the required length will be rejected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The SIGCHI publication templates are undergoing revisions and will be updated by Fall 2018.  We will post the final templates for DIS 2019 after they are completed by ACM.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We no longer have the category of “Notes”; however, you may submit a paper that is shorter than 10 pages that will be reviewed based on its contribution.&lt;/p&gt;
+
+&lt;p&gt;All Papers must present original, unpublished research. Papers are not allowed to be under concurrent review with other conferences, journals, or venues.&lt;/p&gt;
+
+&lt;h2 id=&#34;anonymity&#34;&gt;Anonymity&lt;/h2&gt;
+
+&lt;p&gt;Papers should be anonymised for blind peer review. Authors are expected to remove author and institutional identity from the title and header of the paper, as well as any information embedded within the meta-data of the submission file. Suppression of identity in the body of the paper is left up to the discretion of authors. However, reviewers must be able to compare your current submission to other related work in the area. In many situations, this is the author’s own work found in other papers. We ask that if you are citing your own work, you refer to it in the third person as opposed to removing it completely because of blind review. &lt;em&gt;For example, rather than stating, “This study builds on our prior work [removed for anonymity],” please refer to it in the third person, such as, “This study builds on prior work by &amp;lt;authors, where you list your names&amp;gt; [2].”&lt;/em&gt;  Thus, you should be including the full citation to the prior work in the references list, rather than removing it.&lt;/p&gt;
+
+&lt;h2 id=&#34;submission&#34;&gt;Submission&lt;/h2&gt;
+
+&lt;p&gt;You must submit your Notice of Intent (NOI) to submit a Paper or Pictorial to the PCS submission system by January 15, 2019. The NOI is an entry in PCS with tentative author names, title and abstract. You can make changes as many times as you like before the final submission deadline on January 18, 2019. Note that this represents a compromise between the tight review schedule this year and the submission deadline being close to public holidays. There will be no further extensions!&lt;/p&gt;
+
+&lt;p&gt;As part of the submission process, authors must submit an abstract, keywords, and meta-data related to the submission’s contents. Authors will also be asked to select a ranked list of between one and three subcommittees that fit their paper. This selection will be used to assign your Paper to one of the review subcommittees/themes.  It is not necessarily the case that your submission will be handled by the subcommittee that you choose as a first preference.&lt;/p&gt;
+
+&lt;h2 id=&#34;review-process&#34;&gt;Review Process&lt;/h2&gt;
+
+&lt;p&gt;Papers follow a rigorous blind peer review process. This process is managed by the Technical Program Chairs (TCs), the Subcommittee Chairs (SCs) for each theme, and Associate Chairs (ACs). Confidentiality of submissions is maintained throughout the review process.&lt;/p&gt;
+
+&lt;p&gt;After the submission deadline, each paper will be assigned to a subcommittee based on the themes selected during the PCS submission process, and at the discretion of the technical program chairs.&lt;/p&gt;
+
+&lt;p&gt;SCs will then assign each paper to a primary AC (1AC) as well as a secondary AC (2AC). Each AC will find one external reviewer for each of their assigned papers. Thus, each paper will be assigned two ACs (one 1AC and one 2AC) along with two external reviewers. As part of this process, we will strive to find ACs and reviewers who are experts in the topic area of each submission.
+During the review period, external reviewers will write a detailed review of their assigned papers and assess the contribution of the research to the field. The 2AC will also write a detailed review of their assigned papers. Thus, each submitted paper will receive three detailed reviews in total.&lt;/p&gt;
+
+&lt;p&gt;After the reviews have been written, the 1AC for a paper will ensure scholarly content and broader impact of reviews and write a meta review of the paper that summarises the reviews from the two external reviewers and the 2AC.  If 1ACs disagree with the other reviews, they will be encouraged to write a review as well as a meta-review; we will strive to distinguish between the 1AC&amp;rsquo;s assessment of the paper and the summarization of the other reviews.&lt;/p&gt;
+
+&lt;p&gt;The 1AC will present a recommendation for the paper’s acceptance or rejection to the SC responsible for the paper, who will review meta reviews and spot check reviews.&lt;/p&gt;
+
+&lt;p&gt;SCs and ACs will meet at a virtual program committee meeting with the TCs to discuss the final acceptance of papers for inclusion in the DIS 2019 program.&lt;/p&gt;
+
+&lt;h2 id=&#34;upon-acceptance-of-your-paper-or-note&#34;&gt;Upon Acceptance of Your Paper or Note&lt;/h2&gt;
+
+&lt;p&gt;Authors will be notified of conditional acceptance or rejection of their Paper or Note on or before the notification date of March 21, 2019. Meta reviews will describe any further changes that the authors are expected to make to the paper prior to its publication. These should be made as part of a “camera ready submission” into PCS by the deadline of April 17, 2019. Final changes will be checked by members of the program committee prior to making a final acceptance of the paper. If authors are unable to meet the requirements for changes, the program chairs will be notified and may reject the paper.&lt;/p&gt;
+
+&lt;p&gt;All accepted submissions require a signed form assigning copyright or licence to the ACM, or an upfront fee to ACM to enable Open Access. Responsibility for obtaining permissions to use video, audio, or pictures of identifiable people or proprietary content rests with the author, not the ACM or the DIS conference.&lt;/p&gt;
+
+&lt;p&gt;Additionally, each accepted submission requires a full conference registration fee to be paid, unless the person presenting the Paper is a first-author student, in which case, a student registration fee has to be paid.&lt;/p&gt;
+
+&lt;p&gt;All published papers will appear online in the ACM Digital Library and be distributed digitally to conference delegates as part of the conference proceedings.&lt;/p&gt;
+
+&lt;p&gt;At the conference, authors of accepted papers must be in attendance to present their papers and answer questions from the audience. Presenters of Papers will have a presentation slot of approximately 20 minutes, though this may be altered prior to the conference based on scheduling needs.  Papers whose authors are not at the conference to present may be removed from the ACM Digital Library and the conference proceedings.&lt;/p&gt;
+
+&lt;h1 id=&#34;dis2019-technical-program-chairs&#34;&gt;DIS2019 Technical Program Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:technicalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Carman Neustaedter&lt;/a&gt;&lt;br /&gt;
+Simon Fraser University, Vancouver British Columbia Canada&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:technicalchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;Deborah Tatar&lt;/a&gt;&lt;br /&gt;
+Virginia Tech, Blacksburg Virginia USA&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pictorials</title>
+      <link>/pictorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pictorials/</guid>
+      <description>
+
+&lt;h1 id=&#34;what-are-pictorials&#34;&gt;What are Pictorials?&lt;/h1&gt;
+
+&lt;p&gt;Pictorials are papers in which the visual components (e.g. diagrams, sketches, illustrations, renderings, photographs, annotated photographs, collages) are the primary means of conveying information with at least, if not more, importance as the accompanying text.&lt;/p&gt;
+
+&lt;p&gt;Pictorials are not full papers. A good Pictorial requires precision and contextualization, but in terms of evidence and detail in argumentation, should aim at the level of a short paper rather than a full paper. However, Pictorials are not simply short papers. They work best when you need to show work that requires visual elements, like documentations of design processes, for example. Pictorials are a great form for reporting design work and also natural to designers, who are sometimes rightfully skeptical about how much power words have in capturing design.&lt;/p&gt;
+
+&lt;p&gt;Pictorials do not show design work only, however. It is important that whatever is reported in a Pictorial must have research interest in the HCI community. Pictorials are meant to contribute to knowledge in themselves rather than document concepts, methods, and processes, we already know.&lt;/p&gt;
+
+&lt;p&gt;Most pictorials contribute knowledge the same way a text-oriented traditional publication does: through a research question and an answer, a claim and an argument that supports the claim, and a proper contextualization in HCI literature (and beyond). A few outstanding pictorials can offer a new way of seeing a setting, problem or design approach.&lt;/p&gt;
+
+&lt;p&gt;Visual components can be contributions to design knowledge in and of themselves, as a form of making, but they should also be accompanied by a narrative that helps the HCI audience understand what the knowledge contribution is. It is this scaffolding that transforms a Pictorial into research and guarantees that it can be treated as an argument in research discourse. At the same time, the textual narrative should be just that - a scaffolding to support the contribution of the images.&lt;/p&gt;
+
+&lt;p&gt;Accepted submissions will be included in the Proceedings of DIS 2019 and will be considered archival publications – that is, they will be similarly double-blind peer reviewed and will stand as the same quality of contribution as technical program papers and short papers.&lt;/p&gt;
+
+&lt;h1 id=&#34;why-pictorials&#34;&gt;Why Pictorials?&lt;/h1&gt;
+
+&lt;p&gt;The DIS 2019 Pictorials track builds on the success of the Pictorials track in DIS from 2014-2018, and the addition of Pictorials to the Creativity and Cognition 2017 conference.&lt;/p&gt;
+
+&lt;p&gt;As design perspectives have increasingly become integrated in HCI practice and research, new approaches are needed to communicate design practices, processes, products and artifacts to the HCI community. Pictorials may have a practical nature, a theoretical nature or both. Through DIS Pictorials, design practitioners in academia, industry, non-profits, or collectives are encouraged to express and unpack their design concepts, practices and projects in rich, heavily visual ways. This format helps foster discussions among authors, conference attendees, and the wider community through the sharing of methods, insights and lessons learned from engaging in the design of interactive systems and artifacts.&lt;/p&gt;
+
+&lt;h1 id=&#34;important-dates&#34;&gt;Important dates&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Submission:&lt;/strong&gt; 18 Jan, 2019 (The submission system closes at 23:59 PST)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Author Notification:&lt;/strong&gt; 21 March 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pictorials camera ready due:&lt;/strong&gt; 18 April 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;what-to-submit&#34;&gt;What to submit?&lt;/h1&gt;
+
+&lt;p&gt;Submissions may cover diverse topics that include (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design processes and decisions affecting the material or interactive elements of prototypes&lt;/li&gt;
+&lt;li&gt;Visual materials that provoke thought about interactivity&lt;/li&gt;
+&lt;li&gt;Methodological approaches to design&lt;/li&gt;
+&lt;li&gt;Successful attempts, failed attempts, challenges and lessons learned&lt;/li&gt;
+&lt;li&gt;Deployments of interactive design artifacts&lt;/li&gt;
+&lt;li&gt;Experiences in design-based research&lt;/li&gt;
+&lt;li&gt;Other insights, practices or processes often unmentioned in important phases of design research and practice&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;presentation-quality&#34;&gt;Presentation quality&lt;/h1&gt;
+
+&lt;p&gt;In pictorials, production values and visual quality matters. We encourage authors to be creative with their submissions. Pictorial contents could consist of (but are not limited to):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design sketches&lt;/li&gt;
+&lt;li&gt;Annotated images&lt;/li&gt;
+&lt;li&gt;Illustrations and diagrams&lt;/li&gt;
+&lt;li&gt;Field notes or sketches (ensure that sketches are readable for the intended purposes)&lt;/li&gt;
+&lt;li&gt;Collages&lt;/li&gt;
+&lt;li&gt;Photographs and annotated photographs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;checklist-for-authors&#34;&gt;Checklist for authors&lt;/h1&gt;
+
+&lt;p&gt;Other important factors to consider in creating a Pictorial:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Are images/diagrams emphasized over text as the primary means of communicating the research contribution?&lt;/li&gt;
+&lt;li&gt;Does your work require a Pictorial format, or would it be clearer in textual form?&lt;/li&gt;
+&lt;li&gt;Is the production value for the images and/or diagrams of high quality?&lt;/li&gt;
+&lt;li&gt;Is the Pictorial framed and well referenced within DIS and HCI especially, and outside of HCI where needed? (but please note: it is not necessary to reference everything about visual presentation that has ever been advanced by any discipline)&lt;/li&gt;
+&lt;li&gt;Are the implications for HCI and/or interaction design clear? These may be analytic, generative, synthesis-oriented, and even manifestos.&lt;/li&gt;
+&lt;li&gt;Are the societal benefits of the Pictorial clear and in line with ACM Code of Ethics and Professional Conduct?&lt;/li&gt;
+&lt;li&gt;Does every image used in the Pictorial play a meaningful role and clearly present the idea on its own or with the support of text?&lt;/li&gt;
+&lt;li&gt;Does the placement of images and text compose a good narrative that makes effective use of the format?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Another feature of Pictorials is that they must turn into engaging presentations at the DIS conference. Before submitting a pictorial, please think about the presentation:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;‍Does the pictorial require visuals?&lt;/li&gt;
+&lt;li&gt;What would these visuals be?&lt;/li&gt;
+&lt;li&gt;Can you build a visually engaging presentation around them?&lt;/li&gt;
+&lt;li&gt;Do they clarify the argument better than a traditional slideshow and text?&lt;/li&gt;
+&lt;li&gt;Could the Pictorial turn into a visually engaging presentation? Can you make an engaging video, animation or Pecha Kucha style presentation out of the Pictorial?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;checklist-for-reviewers&#34;&gt;Checklist for reviewers&lt;/h1&gt;
+
+&lt;p&gt;Does the Pictorial:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Take advantage of an image-based format, or would a text-based format be better suited to the Pictorial?&lt;/li&gt;
+&lt;li&gt;Does the Pictorial make a contribution to HCI (and beyond)?&lt;/li&gt;
+&lt;li&gt;Is the Pictorial well-situated within other DIS and HCI work?&lt;/li&gt;
+&lt;li&gt;Does it make a clear, logical argument that makes the claim of the paper believable?&lt;/li&gt;
+&lt;li&gt;Represent a visual quality high enough to convey the message of the Pictorial?&lt;/li&gt;
+&lt;li&gt;Do you think it turns into a visually engaging presentation? What would the format for such a presentation be?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;acceptance-rate-and-copyrighted-materials&#34;&gt;Acceptance rate and copyrighted materials&lt;/h1&gt;
+
+&lt;p&gt;Pictorials are expected to be original work created specifically for the pictorials track. Expect the track to be competitive and submit your best work. Expect an acceptance rate of around 20-25%.&lt;/p&gt;
+
+&lt;p&gt;Please do not submit work you have submitted elsewhere with a few images added. Doing so may violate dual submission rules. You may submit previously published work to which you have added significant visual content, provided only that such work is clearly and prominently attributed as such in a footnote to the title with a clear description of what the pictorial uniquely contributes or adds to the previous work. In this last case, at least 30% of the material must be new, per ACM rules.&lt;/p&gt;
+
+&lt;p&gt;You must be the author and copyright holder of all materials you submit, particularly all visual materials. Submitted work must comply with ACM policies.&lt;/p&gt;
+
+&lt;h1 id=&#34;pictorial_format&#34;&gt;Format&lt;/h1&gt;
+
+&lt;p&gt;All submissions should be anonymous and submitted via the PCS submission system. PCS conference system allows file sizes up to about 200 MB, but we suggest that you keep reviewers in mind and experiment with lower resolution to make the submission considerably smaller, especially if you are using the ACM Word template.&lt;/p&gt;
+
+&lt;p&gt;Pictorials should be submitted in the DIS 2019 &lt;a href=&#34;https://sigchi.org/templates/&#34; target=&#34;_blank&#34;&gt;SIGCHI Extended Abstracts Format&lt;/a&gt;, and not exceed 12 pages, excluding references.&lt;/p&gt;
+
+&lt;p&gt;The first page of the submission should include the submission’s title, author(s) and their affiliation(s) (leave blank for double blind review), and a written abstract of no more than 100 words succinctly describing the background and context of the pictorial as well as its contribution to the DIS community.&lt;/p&gt;
+
+&lt;p&gt;Further written parts known from other conference formats such as Introduction, Conclusion, Discussion, Acknowledgements, and References are optional. The main part of the submission should be an annotated visual composition and we encourage submissions to use the Extended Abstract format creatively—see the DIS pictorials example InDesign template, and a sample PDF file that shows possible layouts:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MISSING LINK&lt;/strong&gt;: DISPictorials2019.zip&lt;/p&gt;
+
+&lt;p&gt;We strongly advise you to use the InDesign template to compose your pictorial. If you do not have access to InDesign, please use the current SIGCHI Extended Abstracts Format in Word.&lt;/p&gt;
+
+&lt;h1 id=&#34;review-and-selection&#34;&gt;Review and Selection&lt;/h1&gt;
+
+&lt;p&gt;In DIS 2019, Pictorials follow a rigorous blind peer review process similar to Full Papers and Notes. The review process is managed by the Technical Program Chairs (TPC), the Pictorials Chairs for each theme, and Associate Chairs (ACs). Confidentiality of submissions is maintained throughout the review process.&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Step&lt;/th&gt;
+&lt;th&gt;Action&lt;/th&gt;
+&lt;th&gt;Timeline&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1&lt;/td&gt;
+&lt;td&gt;After the submission deadline, each Pictorial will be assigned to a Pictorials Chairs who distribute them amongst themselves.&lt;/td&gt;
+&lt;td&gt;19 January 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;Chairs check the Pictorials, report possible conflicts of interest, and assign Pictorials to two ACs (called 1AC and 2AC)&lt;/td&gt;
+&lt;td&gt;By 25 January 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;3&lt;/td&gt;
+&lt;td&gt;1AC assigns two reviewers and 2AC assigns one reviewer&lt;/td&gt;
+&lt;td&gt;By 1 February 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;Review process&lt;/td&gt;
+&lt;td&gt;2 February - 8 March 2019&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;5&lt;/td&gt;
+&lt;td&gt;After receiving all reviews and scores, 1AC writes a metareview, scores the papers, and divides them in four categories:&lt;ul&gt;&lt;li&gt;&lt;strong&gt;A - Clear rejects:&lt;/strong&gt; If a Pictorial is below acceptance threshold (it is calculated after all reviews are in, but 3.2 is a good approximation), the paper is rejected. Only 1AC metareview is needed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;B - Clear Accepts:&lt;/strong&gt; If a Pictorial is a clear accept (usually above 4.0), 1AC can recommend accepting the paper. Only 1AC metareview is needed.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;C - Borderline:&lt;/strong&gt; 2AC writes a second meta-review if the Pictorial is in the acceptance range (usually in 3.2 - 4.0 range)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;D - Papers with large standard deviation:&lt;/strong&gt; 2AC writes second meta-review in case of conflicting reviews. If 1AC and 2AC disagree, they can transfer the case to SC chairs.&lt;/li&gt;&lt;/ul&gt;1AC writes a recommendation and submits it to SCs.&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;SCs will review the scores and meta-reviews for each of their assigned papers and make preliminary decisions&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;7&lt;/td&gt;
+&lt;td&gt;PC meeting decides which Pictorials are accepted to the conference&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;8&lt;/td&gt;
+&lt;td&gt;Author Notifications&lt;/td&gt;
+&lt;td&gt;21 March 2019&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h1 id=&#34;examples&#34;&gt;Examples&lt;/h1&gt;
+
+&lt;p&gt;Pictorials from previous DIS conferences are available from ACM Library. Here are a selection of excellent pictorials from prior years:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Eli Blevis. 2014. Stillness and motion, meaning and form. In Proceedings of the 2014 conference on Designing interactive systems (DIS &amp;lsquo;14). ACM, New York, NY, USA, 493-502. DOI: &lt;a href=&#34;https://doi.org/10.1145/2598510.2602963&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/2598510.2602963&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Audrey Desjardins, Ron Wakkary, and William Odom. 2016. Behind the Lens: A Visual Exploration of Epistemological Commitments in HCI Research on the Home. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS &amp;lsquo;16). ACM, New York, NY, USA, 360-376. DOI: &lt;a href=&#34;https://doi.org/10.1145/2901790.2901910&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/2901790.2901910&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Elvin Karana, Elisa Giaccardi, Niels Stamhuis, and Jasper Goossensen. 2016. The Tuning of Materials: A Designer&amp;rsquo;s Journey. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS &amp;lsquo;16). ACM, New York, NY, USA, 619-631. DOI: &lt;a href=&#34;https://doi.org/10.1145/2901790.2901909&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/2901790.2901909&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Heather McKinnon. 2016. Finding Design Value in Modern Mundanity. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS &amp;lsquo;16). ACM, New York, NY, USA, 1059-1071. DOI: &lt;a href=&#34;https://doi.org/10.1145/2901790.2901906&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/2901790.2901906&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Thomas Dykes, Jayne Wallace, Mark Blythe, and James Thomas. 2016. Paper Street View: A Guided Tour of Design and Making Using Comics. In Proceedings of the 2016 ACM Conference on Designing Interactive Systems (DIS &amp;lsquo;16). ACM, New York, NY, USA, 334-346. DOI: &lt;a href=&#34;https://doi.org/10.1145/2901790.2901904&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/2901790.2901904&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Pauline Gourlet and Thierry Dassé. 2017. Cairn: A Tangible Apparatus for Situated Data Collection, Visualization and Analysis. In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS &amp;lsquo;17). ACM, New York, NY, USA, 247-258. DOI: &lt;a href=&#34;https://doi.org/10.1145/3064663.3064794&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/3064663.3064794&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;James Pierce and Carl DiSalvo. 2017. Dark Clouds, Io&amp;amp;#!+, and [Crystal Ball Emoji]: Projecting Network Anxieties with Alternative Design Metaphors. In Proceedings of the 2017 Conference on Designing Interactive Systems (DIS &amp;lsquo;17). ACM, New York, NY, USA, 1383-1393. DOI: &lt;a href=&#34;https://doi.org/10.1145/3064663.3064795&#34; target=&#34;_blank&#34;&gt;https://doi.org/10.1145/3064663.3064795&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;pictorials-chairs&#34;&gt;Pictorials Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:pictorialchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;pictorialchairs [at] dis2019.acm.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Kristina Andersen&lt;br /&gt;
+Shad Gross&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Provocations and Works-in-Progress</title>
+      <link>/provocations_wips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/provocations_wips/</guid>
+      <description>
+
+&lt;p&gt;The DIS 2019 Provocations and Works-in-Progress (PWiP) track is a format that allows authors to propose novel, in-progress, and thought provoking research that may emphasize different values than what are usually promoted. The PWiP format is intended to facilitate discussion between authors and conference attendees. We welcome all submissions related to the design of interactive systems as well as the conference theme of Contesting Borders and Intersections.&lt;/p&gt;
+
+&lt;p&gt;We particularly welcome design research contributions that value:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Novelty over evidence (You do not need a finished user study!)&lt;/li&gt;
+&lt;li&gt;Provocation over generalization (You do not need to make everyone happy!)&lt;/li&gt;
+&lt;li&gt;Design making over design guidelines (Why not show us, rather than tell?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While PWiP submissions need not have reached the level of completion of Full Paper submissions, they should demonstrate a contribution in terms of research and/or design knowledge.&lt;/p&gt;
+
+&lt;p&gt;PWiP submissions must represent original content and cannot be currently under review elsewhere. We accept submissions that build upon prior work; however, the PWiP must offer a new, significant contribution over prior work.&lt;/p&gt;
+
+&lt;p&gt;All PWiP submissions will be peer-reviewed.&lt;/p&gt;
+
+&lt;p&gt;Accepted PWiP submissions will be published in the DIS 2019 companion publication and appear in the ACM Digital Library (adjunct proceedings). A PWiP publication is not an archival publication.&lt;/p&gt;
+
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Provocations &amp;amp; Works-in-Progress due:&lt;/strong&gt; Friday, 8 February 2019 (Submission closes at 5pm Pacific time)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Provocations &amp;amp; Works-in-Progress author notifications:&lt;/strong&gt; Thursday, 21 March 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Camera ready papers due:&lt;/strong&gt; Friday, 19 April 2019&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DIS 2019 Conference, San Diego, USA:&lt;/strong&gt; 24-28 June 2019&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;preparing-and-submitting&#34;&gt;Preparing and Submitting&lt;/h1&gt;
+
+&lt;p&gt;A PWiP paper should not exceed 4 pages (excluding references) formatted using the most recent SIGCHI Extended Abstracts Format (horizontal).&lt;/p&gt;
+
+&lt;p&gt;Please include one sentence that can be used in the conference program as a stand-alone teaser or provocation related to your submission, with the aim of drawing attendees to your presentation and engage in discussion.&lt;/p&gt;
+
+&lt;p&gt;All submissions should be anonymised and submitted via the Precision Conference System by 8 February, 2019.&lt;/p&gt;
+
+&lt;h1 id=&#34;presentation&#34;&gt;Presentation&lt;/h1&gt;
+
+&lt;p&gt;Accepted PWiPs will be required to present a poster or similar physical visual/aural artefact as means of presenting your work and engaging conference attendees. We intend to do some innovation around the usual poster session format so we will work with authors of accepted PWiPs between the notification deadline and the conference itself to make this happen.&lt;/p&gt;
+
+&lt;h1 id=&#34;provocations-chairs&#34;&gt;Provocations Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:provocationschairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;provocationschairs [AT] dis2019.acm.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Lone Hansen&lt;br /&gt;
+Aarhus University&lt;/p&gt;
+
+&lt;p&gt;Norman Su&lt;br /&gt;
+Indiana University&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sponsorship</title>
+      <link>/sponsor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sponsor/</guid>
+      <description>
+
+&lt;p&gt;In June 2019, the premier ACM conferences DIS and C&amp;amp;C will be joining forces in San Diego to bring together a diverse community of designers, scientists, artists, educators, and researchers.&lt;/p&gt;
+
+&lt;p&gt;Sponsoring this joint event is an ideal way to demonstrate your organization&amp;rsquo;s commitment to research on design and creativity, and to publicize this support to many leaders and students in the field.  Sponsors play a vital role in sustaining the economic viability and proud tradition of strong participation for these conferences each year.  Sponsorship helps to keep registration fees affordable for academic researchers, especially students. Corporate support will also allow student volunteers to receive complimentary registration.&lt;/p&gt;
+
+&lt;p&gt;All sponsorship will go towards supporting both conferences.  We offer five corporate support levels: Platinum, Gold, Silver, Bronze, and Friends.  See the benefits and costs below.&lt;/p&gt;
+
+&lt;p&gt;Interested in sponsoring DIS2019 and C&amp;amp;C2019? Please contact the &lt;a href=&#34;mailto:sponsor2019@cc.cam.org&#34; target=&#34;_blank&#34;&gt;Sponsorship Chairs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&#34;platinum-sponsors&#34;&gt;Platinum sponsors&lt;/h1&gt;
+
+&lt;p&gt;Contribution of $20,000 or more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;12 free registrations for people from your company to attend both conferences.&lt;/li&gt;
+&lt;li&gt;Company logo in the printed programs, signage at both conferences, and both conference websites.&lt;/li&gt;
+&lt;li&gt;We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.&lt;/li&gt;
+&lt;li&gt;Job descriptions provided to attendees.&lt;/li&gt;
+&lt;li&gt;First priority for a demo booth.&lt;/li&gt;
+&lt;li&gt;First priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).&lt;/li&gt;
+&lt;li&gt;Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;gold-sponsors&#34;&gt;Gold sponsors&lt;/h1&gt;
+
+&lt;p&gt;Contribution of $15,000 or more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;8 free registrations for people from your company to attend both conferences.&lt;/li&gt;
+&lt;li&gt;Company logo in the printed programs, signage at both conferences, and both conference websites.&lt;/li&gt;
+&lt;li&gt;We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.&lt;/li&gt;
+&lt;li&gt;Job descriptions provided to attendees.&lt;/li&gt;
+&lt;li&gt;Second priority for a demo booth.&lt;/li&gt;
+&lt;li&gt;Second priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).&lt;/li&gt;
+&lt;li&gt;Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;silver-sponsors&#34;&gt;Silver sponsors&lt;/h1&gt;
+
+&lt;p&gt;Contribution of $10,000 or more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4 free registrations for people from your company to attend both conferences.&lt;/li&gt;
+&lt;li&gt;Company logo in the printed programs, signage at both conferences, and both conference websites.&lt;/li&gt;
+&lt;li&gt;We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.&lt;/li&gt;
+&lt;li&gt;Job descriptions provided to attendees.&lt;/li&gt;
+&lt;li&gt;Third priority for a demo booth.&lt;/li&gt;
+&lt;li&gt;Third priority for naming conference events (e.g., reception, banquet, lunch and coffee breaks).&lt;/li&gt;
+&lt;li&gt;Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;bronze-sponsors&#34;&gt;Bronze sponsors&lt;/h1&gt;
+
+&lt;p&gt;Contribution of $5,000 or more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 free registrations for people from your company to attend both conferences.&lt;/li&gt;
+&lt;li&gt;Company logo in the printed programs, signage at both conferences, and both conference websites.&lt;/li&gt;
+&lt;li&gt;We will acknowledge your company’s contribution and offer thanks at the opening and closing sessions for both conferences.&lt;/li&gt;
+&lt;li&gt;Fourth priority for a demo booth.&lt;/li&gt;
+&lt;li&gt;Inclusion of giveaways (e.g., company flyers and/or novelties) in the conference bag.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;friends-of-dis2019-and-c-c2019&#34;&gt;Friends of DIS2019 and C&amp;amp;C2019&lt;/h1&gt;
+
+&lt;p&gt;Contribution of $1,000 or more:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Company logo on signage at both conferences and on both conference websites.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The joint conferences offer a number of events that can be sponsored including the combined Art Show, two general receptions, two dinners, lunch and coffee breaks, and other events. Naming of events will be decided based on the amount of the contribution and the order received. The price of events vary; please &lt;a href=&#34;mailto:sponsor2019@cc.cam.org&#34; target=&#34;_blank&#34;&gt;contact us&lt;/a&gt; with inquiries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/workshops/</guid>
+      <description>
+
+&lt;p&gt;We welcome proposals for hosting a workshop at DIS 2019 that align with the conference theme. Workshops offer unique opportunities for diverse groups of scholars, practitioners, and researchers to spend focused time on generative topics. A workshop format is ideal for working together on open, unresolved or controversial issues and developing a diverse range of outputs. Well designed and facilitated workshops attract broad interdisciplinary interest, inspire interaction between participants and foster community-building. We encourage proposals to host a workshop that encourage participants to engage in alternatives to established approaches in design and computing; this can include but is not limited to artistic and humanistic approaches, craft, tinkering, hacking, feminist, postcolonial, and longer-term approaches to design, reflective engagements with politics and cultures of design.&lt;/p&gt;
+
+&lt;h1 id=&#34;workshop-planning&#34;&gt;Workshop Planning&lt;/h1&gt;
+
+&lt;p&gt;DIS 2019 workshops will be held on the first two days of the conference (23-24 June, 2019); workshops may be for half-day, whole day, or two days. Plan for 6 working hours per day, with morning, afternoon and lunch breaks. Reserving unhurried time for socializing is critical. Workshops should aim to attract between 10-25 participants.&lt;/p&gt;
+
+&lt;p&gt;We encourage provocative, interdisciplinary, boundary crossing and experimental proposals that relate to the topics of DIS:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Design Methods and Processes: Methods, tools, and techniques for engaging people; researching, designing, and co-designing interactive systems; participatory design, design artefacts, research through design; the use of critical theory, feminist methods, counter-factual histories and cultural analysis to understand, critique and reflect on design products and contexts as well as design practices.&lt;/li&gt;
+&lt;li&gt;Experience: Places, temporality, people, communities, events, phenomena, aesthetics, user experience, usability, engagement, empowerment, disruption, wellbeing, designing things that matter, diversity, participation, materiality, making, etc.&lt;/li&gt;
+&lt;li&gt;Themes: Sustainability, Health, resilience, longer-term approaches, children-computer interaction, games and play, digital arts, making, craft, digital labor, etc.&lt;/li&gt;
+&lt;li&gt;Technological Innovation (systems, tools, and/or artifact designs): Sensors and actuators, mobile devices, multi touch and touchless interaction, social media, personal, community, public displays, smart objects and/or intelligent systems, open source hardware, IoT, artificial intelligence, etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;the-conference-context&#34;&gt;The Conference Context&lt;/h1&gt;
+
+&lt;p&gt;There are some unusual elements to consider when proposing a workshop for DIS 2019:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Joint with Creativity and Cognition 2019: DIS and C&amp;amp;C will share the conference venue. If you believe that your topic would be of particular interest to attendees of C&amp;amp;C as well as DIS, please note it. The Workshop Chairs of C&amp;amp;C and DIS will share proposals to create an overall program of workshops that not only serve the particular needs and interest of their own communities but will look for opportunities to increase the dialogue between them, as well as try to minimize duplication.&lt;/li&gt;
+&lt;li&gt;Taking advantage of location and theme: Workshops that involve local engagement around the DIS 2019 theme of contesting borders and intersections are encouraged. While the conference does have on-site space, innovative workshops that are place-specific in the San Diego area are invited; such proposals need to explain access plans.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Proposals to host a workshop due:&lt;/strong&gt; 18 January 2019 (The submission system closes at 23:59 PST)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notifications to authors on whether their proposed workshop was accepted:&lt;/strong&gt; 8 March 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;All camera ready papers due:&lt;/strong&gt; 22  March 2018&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Workshops and Doctoral Consortium:&lt;/strong&gt; 23-24 June 2018&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&#34;submission-details&#34;&gt;Submission Details&lt;/h1&gt;
+
+&lt;p&gt;Proposals to host a workshop have two separate components submitted as separate files: 1) a 4 page abstract, and 2) a detailed workshop description:&lt;/p&gt;
+
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+
+&lt;p&gt;An abstract describing your proposed workshop should be up to 4 pages in length including references in the &lt;a href=&#34;https://sigchi.org/templates/&#34; target=&#34;_blank&#34;&gt;SIGCHI Extended Abstracts Format&lt;/a&gt;, submitted via Precision Conference System. This will serve as the longer-term record of accepted workshop proposals. The submission should contain:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Title and proposed duration&lt;/li&gt;
+&lt;li&gt;Organizers’ names and institutional addresses (proposals are not anonymized for review)&lt;/li&gt;
+&lt;li&gt;Workshop theme and goals, background and motivation&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Detailed Workshop Description: A workshop description should also be submitted (as a separate file), containing details of your proposed workshop to help the workshop chairs understand the specifics. Please include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Intended audience and recruitment strategy&lt;/li&gt;
+&lt;li&gt;Schedule and description of activities planned&lt;/li&gt;
+&lt;li&gt;Intended outcomes of the workshop, their benefits and significance&lt;/li&gt;
+&lt;li&gt;Required facilities&lt;/li&gt;
+&lt;li&gt;Specifications of your work, including size, weight, light and sound emission&lt;/li&gt;
+&lt;li&gt;A plan for how the results of the workshop will be disseminated beyond DIS 2019&lt;/li&gt;
+&lt;li&gt;Short biographies of the organizers (including photos)&lt;/li&gt;
+&lt;li&gt;A draft 250-word call for participation for your workshop which will be posted on the DIS 2019 conference website. This should contain information on how and what potential participants should submit to you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All submissions will be reviewed by the workshop chairs. Successful proposals to host a workshop should describe how the workshop format will be leveraged to generate clear outcomes and to make constructive and valuable use of the participants’ collective expertise. Social, active and engaging workshop concepts with clear collaborative outcomes will be preferred, as will workshops that have strong potential to generate cross-disciplinary interest.&lt;/p&gt;
+
+&lt;p&gt;For first time workshop organizers, successful submissions from previous DIS conferences are a helpful indication of appropriate content and style:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dis2018.org/workshop-program/&#34; target=&#34;_blank&#34;&gt;http://dis2018.org/workshop-program/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://dis2017.org/workshop-program/&#34; target=&#34;_blank&#34;&gt;http://dis2017.org/workshop-program/&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;workshops-chairs&#34;&gt;Workshops Chairs&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&#34;mailto:workshopchairs@dis2019.acm.org&#34; target=&#34;_blank&#34;&gt;workshopchairs [AT] dis2019.acm.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Silvia Lindtner&lt;br /&gt;
+University of Michigan&lt;/p&gt;
+
+&lt;p&gt;Lisa P. Nathan&lt;br /&gt;
+University of British Columbia&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
