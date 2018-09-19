@@ -1,5 +1,6 @@
 ---
-title: "ACM Designing Interactive Systems 2019<br><h2>San Diego, California - June 23 to 28, 2019</h2>"
+title: "ACM Designing Interactive Systems 2019"
+subtitle: "San Diego, California - June 23 to 28, 2019"
 description: "San Diego, California - June 23 to 28, 2019"
 ---
 
