@@ -1,0 +1,48 @@
+h1 {
+    font-size: 3.8em;
+    font-weight: 700;
+}
+h2 {
+    font-size: 2.5em;
+    font-weight:400;
+}
+
+nav {
+    font-size: 1.5em;
+}
+
+p {
+    font-size: 1em;
+}
+
+body.home {
+    color:  #f2efe0;
+    background: #272726;
+}
+
+body.home header {
+    color: #272726;
+}
+
+body.home .tagline {
+    color:  #27b0c5;
+}
+
+body.home div.table {
+    background: #f27365;
+    color: #f2efe0;
+}
+
+body.single {
+    color: #525352;
+}
+
+body.single h1 {
+    color: #525352;
+}
+body.single h2 {
+    color: #f27365;
+}
+footer {
+    background: #f27365
+}
