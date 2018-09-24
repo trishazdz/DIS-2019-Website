@@ -15,13 +15,28 @@ p {
     font-size: 1em;
 }
 
-body.home {
+.uppercase {
+    text-transform: uppercase;
+}
+
+body.home,
+body.home header.site-header {
     color:  #f2efe0;
     background: #272726;
 }
 
-body.home header {
-    color: #272726;
+.site-logo {
+    max-width: 5em;
+}
+
+body.home header.hero {
+    padding: 5em 0;
+    border: 10px solid transparent;
+    border-image: url('/img/pinkhazardvertical.png') 30 round;
+}
+
+body.home header.hero h1 {
+    font-size: 4.5em;
 }
 
 body.home .tagline {

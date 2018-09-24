@@ -1,17 +1,34 @@
 {{ partial "header.html" . }}
 
 {{ with .Site.GetPage "/about" }}
-    <h1>
-        {{ .Title }}
-    </h1>
-    <h2 class="tagline">
-        {{ .Description }}
-    </h2>
+<header class="grid-x hero align-center align-middle">
+    <div class="cell medium-10 grid-x grid-margin-x">
+        <h1 class="cell small-12 text-right">
+            DIS 2019
+        </h1>
 
-    <div class="table">
-        apwofijapdsoifj
+        <h2 class="cell small-8 uppercase text-right">
+            Contesting borders and intersections
+        </h2>
+
+        <div class="cell small-4 grid-x">
+            <p class="cell">
+                {{ .Title }}
+
+                <br/>
+
+                June 23 to 28, 2019 <br/>
+                <div style="width:100%;">
+                    <div style="width: 10%; background-color:aqua; height:2px">
+                    </div>
+                </div>
+                <h3 class="uppercase">
+                    San Diego, California
+                </h3>
+            </p>
+        </div>
     </div>
-
+</header>
 {{ end }}
 
 
