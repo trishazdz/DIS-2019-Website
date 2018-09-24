@@ -27,29 +27,39 @@
   
 </head>
 <body class="list home">
-  <header class="header site-header">
-    <a class="site-logo" href="/">
+  <header class="header site-header grid-x align-middle">
+    <a class="site-logo cell shrink" href="/">
       <img src="/img/logosmall.png"/> 
     </a>
     
-    <button class="menu-toggle" type="button">MENU  </button>
-    <nav class="menu">
-      <ul>
+    <button class="menu-toggle hide" type="button">MENU</button>
+    <nav class="menu cell shrink">
         
         
-        <li class="">
+        <div class="">
           <a href="#">Submit</a>
-        </li>
+        </div>
         
-        <li class="">
+        <div class="">
+          <a href="/program">Program</a>
+        </div>
+        
+        <div class="">
+          <a href="/authors">Authors</a>
+        </div>
+        
+        <div class="">
+          <a href="/attending">Attending</a>
+        </div>
+        
+        <div class="">
           <a href="/organizers">Organizers</a>
-        </li>
+        </div>
         
-        <li class="">
-          <a href="/sponsor">Sponsor</a>
-        </li>
+        <div class="">
+          <a href="/sponsors">Sponsors</a>
+        </div>
         
-      </ul>
     </nav>
   </header>
   <main class="main">
@@ -86,15 +96,38 @@
 </header>
 
 
+<section class="grid-x align-center light"
+    style="background-image: url(/img/logoarrowTop.png), url(/img/logoarrowRight.png), 
+                url(/img/logoarrowBottom.png), url(/img/logoarrowLeft.png);
+    background-position: top, right, bottom, left;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;"
+>
+    <div class="cell medium-6 text-center">
+        We are excited to co-locate our conference with 
+        <strong> Creativity and Cognition 2019.</strong>. 
+        There will be some overlapping programs to strengthen the 
+        dialogues between our related communities.
+    </div>
+</section>
+
 
 </main>
-<footer class="footer">
-  <span>&copy; 2018 DIS 2019</span>
-  <span>&middot;</span>
-  <span>Powered by <a href="https://gohugo.io/" target="_blank">Hugo️️</a>️</span>
-  <span>&middot;</span>
-  <span>Designed by <a href="http://21beats.com/" target="_blank">️21beats️</a>️</span>
+<footer class="site-footer footer grid-x grid-margin-x">
+  <div class="cell shrink">
+    <a href="/">
+      <img class="site-logo" src="/img/yellowlogo.png"/> 
+    </a>
+  </div>
+
+  <div class="cell auto">
+    DIS words here
+  </div>
+  
+  <div class="cell auto">
+    Creativity and Cognition site
+  </div>
 </footer>
+
 <script src="https://cdn.bootcss.com/instantclick/3.0.1/instantclick.min.js" data-no-instant></script>
 <script data-no-instant>InstantClick.init();</script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js" data-no-instant></script>

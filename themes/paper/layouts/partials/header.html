@@ -41,21 +41,19 @@
   {{ end }}
 </head>
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
-  <header class="header site-header">
-    <a class="site-logo" href="{{.Site.BaseURL}}">
+  <header class="header site-header grid-x align-middle">
+    <a class="site-logo cell shrink" href="{{.Site.BaseURL}}">
       <img src="{{.Site.BaseURL}}img/logosmall.png"/> 
     </a>
     
-    <button class="menu-toggle" type="button">MENU  </button>
-    <nav class="menu">
-      <ul>
+    <button class="menu-toggle hide" type="button">MENU</button>
+    <nav class="menu cell shrink">
         {{ $currentPage := . }}
         {{ range .Site.Menus.main }}
-        <li class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
+        <div class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
           <a href="{{ .URL }}">{{ .Name }}</a>
-        </li>
+        </div>
         {{ end }}
-      </ul>
     </nav>
   </header>
   <main class="main">

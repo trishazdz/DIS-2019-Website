@@ -1,3 +1,6 @@
+.hide {
+    display: none;
+}
 h1 {
     font-size: 3.8em;
     font-weight: 700;
@@ -34,6 +37,10 @@ body.home,
 body.home header.site-header {
     color:  #f2efe0;
     background: #272726;
+}
+
+body.home main.main {
+    padding: 0;
 }
 
 body.home button.menu-toggle {
@@ -89,6 +96,33 @@ body.single h1 {
 body.single h2 {
     color: #f27365;
 }
-footer {
-    background: #f27365
+footer.site-footer {
+    background: #f27365;
+    border-bottom: 1.2em solid transparent;
+    border-image: url(/img/pinkhazardhorizontal.png) 95 repeat;
+}
+
+section.light {
+    background: #f2efe0;
+    color: #525352;
+    padding: 6.5em 0;
+}
+
+.menu {
+    display: initial;
+}
+
+.menu * {
+    display: inline-block;
+}
+
+.menu a {
+    font-size: .4em;
+    line-height: 1.5em;
+    border-bottom: 2px solid transparent;
+}
+
+.menu a:hover {
+    color: #f2efe0;
+    border-bottom: 2px solid #f27365;
 }
