@@ -1,17 +1,19 @@
 </main>
-<footer class="site-footer footer grid-x grid-margin-x">
-  <div class="cell shrink">
-    <a href="{{.Site.BaseURL}}">
-      <img class="site-logo" src="{{.Site.BaseURL}}img/yellowlogo.png"/> 
-    </a>
-  </div>
+<footer class="site-footer footer">
+  <div class="grid-container grid-x">
+    <div class="cell shrink">
+      <a href="{{.Site.BaseURL}}">
+        <img class="site-logo" src="{{.Site.BaseURL}}img/yellowlogo.png"/> 
+      </a>
+    </div>
 
-  <div class="cell auto">
-    DIS words here
-  </div>
-  
-  <div class="cell auto">
-    Creativity and Cognition site
+    <div class="cell auto">
+      <img class="site-logo cc-logo" src="{{.Site.BaseURL}}img/CCLogo-white.svg"/>
+    </div>
+    
+    <div class="cell auto">
+      {{ partial "socialmedia" . }}
+    </div>
   </div>
 </footer>
 

@@ -1,37 +1,113 @@
-{{ partial "header.html" . }}
+{{ partial "home-header.html" . }}
+<div style="background-image: url(/img/long-v.svg); 
+background-position: top; background-size: 45vw;
+background-repeat: no-repeat;">
+<header class="header grid-x grid-padding-y align-middle">
+    <a class="site-logo cell shrink" href="{{.Site.BaseURL}}">
+        <img src="{{.Site.BaseURL}}img/logosmall.png"/> 
+    </a>
+    
+    <button class="menu-toggle hide" type="button">MENU</button>
+    <nav class="menu cell shrink">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <div class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
+            <a href="{{ .URL }}">{{ .Name }}</a>
+        </div>
+        {{ end }}
+    </nav>
+</header>
 
 {{ with .Site.GetPage "/about" }}
-<header class="grid-x hero align-center align-middle">
-    <div class="cell medium-10 grid-x grid-margin-x">
-        <h1 class="cell small-12 text-right">
-            DIS 2019
-        </h1>
+    <header class="grid-x hero align-center align-middle">
 
-        <h2 class="cell small-8 uppercase text-right">
-            Contesting borders and intersections
-        </h2>
+        <div class="cell medium-10 large-8 grid-x grid-margin-x">
+            <h1 class="cell text-right">
+                DIS 2019
+            </h1>
 
-        <div class="cell small-4 grid-x">
-            <p class="cell">
+            <p class="cell text-right" style="padding-right: .5em;"> 
                 {{ .Title }}
-
-                <br/>
-
-                June 23 to 28, 2019 <br/>
-                <div style="width:100%;">
-                    <div style="width: 10%; background-color:aqua; height:2px">
-                    </div>
-                </div>
-                <h3 class="uppercase">
-                    San Diego, California
-                </h3>
             </p>
+
+            
+            <h2 class="cell large-8 uppercase text-right">
+                Contesting borders and intersections
+            </h2>
         </div>
-    </div>
-</header>
+
+        <div class="cell large-10 grid-x grid-margin-x">
+            <section class="cell auto grid-x grid-margin-x grid-margin-y">
+                <h4 class="cell large-6 medium-12">
+                    June 23 to 28, 2019
+                </h4>
+
+                <h4 class="cell large-6 medium-12">
+                    San Diego, California
+                </h4>
+            </section>
+
+            <section class="cell auto grid-x text-right">
+                <div class="cell large-6 medium-12">
+                    Submit
+                </div>
+
+                <div class="cell large-6 medium-12">
+                    #DIS2019
+                </div>
+            </section>
+        </div>
+    </header>
+</div>
+
+<main id="main" class="main">
+<section class="grid-x grid-margin-y grid-padding-y align-center light">
+    <main class="cell large-10 grid-x grid-padding-x">
+        <div class="cell medium-auto small-12 markdown">
+            <p class="text-center">
+                <strong>
+                Designing Interactive Systems (DIS) 2019 <br/>
+                International Conference Series <br/>
+                Sunday June 23 to Friday June 28 2019
+                </strong>
+            </p>
+
+            {{ .Content }}
+        </div>
+        <div class="cell medium-auto small-12 grid-x grid-margin-x align-middle">
+            <div class="cell auto">
+                <img src="/img/DIS-logo-orange.svg"/>
+            </div>
+
+            <div class="cell shrink">
+                {{ partial "socialmedia" . }}
+            </div>
+
+            <div class="cell grid-x">
+                <h2>Key Dates:</h2>
+                <ul>
+                    <li></li>
+                </ul>
+            </div>
+        </div>
+    </main>
+</section>
+
 {{ end }}
 
-<section class="grid-x align-center light"
+{{ with .Site.GetPage "/organizers" }}
+<section class="grid-x grid-margin-y grid-padding-y align-center darkish">
+    <main class="cell large-10 grid-x grid-padding-x">
+        <div class="cell medium-auto markdown">
+            {{ .Content }}
+        </div>
+    </main>
+</section>
+{{ end }}
+
+    
+
+<section class="grid-x align-center cream"
     style="background-image: url(/img/logoarrowTop.png), url(/img/logoarrowRight.png), 
                 url(/img/logoarrowBottom.png), url(/img/logoarrowLeft.png);
     background-position: top, right, bottom, left;
@@ -45,5 +121,6 @@
     </div>
 </section>
 
+</main>
 
 {{ partial "footer.html" . }}
