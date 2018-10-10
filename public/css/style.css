@@ -31,7 +31,7 @@ article, aside, figcaption, figure, footer, header, main, nav, section {
 }
 body {
   margin: 0;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   color: rgba(0, 0, 0, .8);
   font-size: 20px;
   line-height: 1.6;
@@ -89,9 +89,6 @@ pre, code {
   padding-left: 30px;
   padding-right: 30px;
   line-height: 65px;
-}
-.home .header {
-  background: #fff;
 }
 .title a {
   display: block;

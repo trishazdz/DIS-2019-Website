@@ -11,7 +11,8 @@
   <meta name="description" content="">
   <meta name="author" content="">
   
-  <link href="https://fonts.googleapis.com/css?family=Gill+Sans:400,400i,700,700i" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700|Open+Sans" rel="stylesheet">
+  
   <link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/atom-one-dark.min.css" rel="stylesheet">
   <link href="/css/vendor/foundation.css" rel="stylesheet">
   <link href="/css/style.css" rel="stylesheet">
@@ -27,9 +28,11 @@
   
 </head>
 <body class="list">
-  <header class="header site-header grid-x align-middle">
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  <header class="header grid-x grid-padding-y align-middle">
     <a class="site-logo cell shrink" href="/">
-      <img src="/img/logosmall.png"/> 
+      <img src="/img/DIS-logo-orange.svg"/> 
     </a>
     
     <button class="menu-toggle hide" type="button">MENU</button>
@@ -62,23 +65,33 @@
         
     </nav>
   </header>
-  <main class="main">
+
+  <div class="main-container"  style="border-left: 5em solid transparent;
+    border-right: 5em solid transparent;
+    border-image: url('/img/crosses-big.svg');
+    border-image-slice: 300;
+    border-image-repeat: repeat;">
+  <main id="main" class="main grid-container">
 
 <div class="not-found">404</div>
 </main>
-<footer class="site-footer footer grid-x">
-  <div class="cell shrink">
-    <a href="/">
-      <img class="site-logo" src="/img/yellowlogo.png"/> 
-    </a>
-  </div>
+<footer class="site-footer footer">
+  <div class="grid-container grid-x">
+    <div class="cell shrink">
+      <a href="/">
+        <img class="site-logo" src="/img/yellowlogo.png"/> 
+      </a>
+    </div>
 
-  <div class="cell auto">
-    DIS words here
-  </div>
-  
-  <div class="cell auto">
-    Creativity and Cognition site
+    <div class="cell auto">
+      <img class="site-logo cc-logo" src="/img/CCLogo-white.svg"/>
+    </div>
+    
+    <div class="cell auto">
+      <a href="">Facebook</a> <br/>
+<a href="">Twitter</a> <br/>
+<a href="">Instagram</a>
+    </div>
   </div>
 </footer>
 
