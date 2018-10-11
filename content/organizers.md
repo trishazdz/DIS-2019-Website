@@ -50,13 +50,10 @@ Chih-Sheng Su, Anicia Peters, Nicolai Hansen & Sabrina Hauser
 Lilly Irani, Wendy Kellogg & John Thomas
 
 ## Student Volunteer Chairs: 
-Szu-Yu (Cyn) Liu (Indiana University)
-Aakash Gautam (Virginia Tech) 
-Leon Bucker (HK PolyU) [Special Advisor to SV chairs]
+Szu-Yu (Cyn) Liu (Indiana University), Aakash Gautam (Virginia Tech), Leon Bucker (HK PolyU) [Special Advisor to SV chairs]
 
 ## Web Development/Graphic Design:
-Patrycja Zdziarska (Indiana University)
-Meaghan Dee (Virginia Tech) 
+Patrycja Zdziarska & Meaghan Dee 
 
 <br>
 
