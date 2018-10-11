@@ -35,7 +35,7 @@ Silvia Lindtner & Lisa Nathan
 Stacy Kuznetzov & Scott Davidoff
 
 ## Art Chairs:
-Sheldon Brown & Jonas Fritsch
+Jonas Fritsch & Sheldon Brown 
 
 ## Accessibility & Diversity:
 [accessibilitychair [at] dis2019.acm.org](mailto:accessibilitychair@dis2019.acm.org)  
@@ -49,26 +49,31 @@ Chih-Sheng Su, Anicia Peters, Nicolai Hansen & Sabrina Hauser
 [localchairs [at] dis2019.acm.org](mailto:localchairs@dis2019.acm.org)  
 Lilly Irani, Wendy Kellogg & John Thomas
 
-## Webmaster:
-[jtibau [at] vt.edu](mailto:webmaster@dis2019.acm.org)  
-Javier Tibau
+## Student Volunteer Chairs: 
+Szu-Yu (Cyn) Liu (Indiana University)
+Aakash Gautam (Virginia Tech)
+Leon Bucker (HK PolyU) [Special Advisor to SV chairs]
+
+## Web Development/Graphic Design:
+Patrycja Zdziarska (Indiana University) 
+Meaghan Dee (Virginia Tech) 
 
 <br>
 
 ## Paper Sub-Committees
 
-### Critical Computing and Design Theory:
+## Critical Computing and Design Theory:
 [theory_criticalcomputing_sc [at] dis2019.acm.org](mailto:theory_criticalcomputing_sc@dis2019.acm.org)  
 Paul Dourish & Jeffery Bardzell
 
-### Design Methods and Processes:
+## Design Methods and Processes:
 [methods_processes_sc [at] dis2019.acm.org](mailto:methods_processes_sc@dis2019.acm.org)  
 Ellen Do & John Zimmerman
 
-### Experience, Artifacts, and Technology:
+## Experience, Artifacts, and Technology:
 [artifacts_experiences_sc [at] dis2019.acm.org](mailto:artifacts_experiences_sc@dis2019.acm.org)  
 Rogerio de Paula & Shaun Lawson
 
-### Change Through Design:
+## Change Through Design:
 [change_sc [at] dis2019.acm.org](mailto:change_sc@dis2019.acm.org)  
 Tone Bratteteig & Josh Tennenbaum
