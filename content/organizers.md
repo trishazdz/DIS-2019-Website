@@ -51,11 +51,11 @@ Lilly Irani, Wendy Kellogg & John Thomas
 
 ## Student Volunteer Chairs: 
 Szu-Yu (Cyn) Liu (Indiana University)
-Aakash Gautam (Virginia Tech)
+Aakash Gautam (Virginia Tech) 
 Leon Bucker (HK PolyU) [Special Advisor to SV chairs]
 
 ## Web Development/Graphic Design:
-Patrycja Zdziarska (Indiana University) 
+Patrycja Zdziarska (Indiana University)
 Meaghan Dee (Virginia Tech) 
 
 <br>
