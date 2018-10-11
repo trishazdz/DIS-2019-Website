@@ -19,16 +19,20 @@
     transition: top .1s linear;
 }
 
-h1 {
-    font-size: 3.8em;
+h1,
+.body-single h1,
+.post-content h1 {
+    font-size: .8em;
     font-weight: 700;
 }
 h1.post-title {
-    font-size: 1.5em;
+    font-size: 1em;
 }
-h2 {
-    font-size: 1.5em;
-    font-weight:400;
+
+h2,
+.post-content h2 {
+    font-size: 1em;
+    font-weight: 400;
 }
 
 h3 {
@@ -49,8 +53,12 @@ nav {
     font-size: 1.5em;
 }
 
-p {
+p, a {
     font-size: .8em;
+}
+
+p > a {
+    font-size: 1em;
 }
 
 .markdown p {
@@ -68,6 +76,8 @@ body.home header.site-header {
 }
 
 header.site-header {
+    background-color: #f27365;
+    color: rgb(242, 239, 224);
     padding: 2.4em .5em;
 }
 
@@ -89,7 +99,7 @@ button.menu-toggle::after {
     max-width: 5em;
 }
 
-.site-logo img {
+img.site-logo {
     width: 100%;
 }
 
@@ -100,7 +110,8 @@ body.home header.hero {
 }
 
 
-body.home header.hero p {
+body.home header.hero p,
+body.home header.hero a {
     font-size: .8em;
 }
 
@@ -137,7 +148,12 @@ footer.site-footer {
     border-image: url(/img/pinkhazardhorizontal.png) 95 repeat;
 }
 
+footer.site-footer a {
+    color: rgb(242, 239, 224);
+}
+
 section.light {
+    padding: 2em 0;
     background: #fff;
     color: #525352;
 }
@@ -150,18 +166,21 @@ section.cream {
 
 section.darkish {
     background: #525352;
+    padding: 2em 0;
 }
 
 section.dark {
     background: #272726;
+    padding: 2em 0;
 }
 
-.menu {
-    display: initial;
-}
 
-.menu * {
+.menu > li {
     display: inline-block;
+}
+
+.dropdown.menu>li.is-dropdown-submenu-parent>a::after {
+    border-color: #f2efe0 transparent transparent; 
 }
 
 .menu a {
@@ -172,4 +191,8 @@ section.dark {
 
 .menu a:hover {
     color: #f2efe0;
+}
+
+.menu .is-submenu-item a {
+    color: #525352;
 }

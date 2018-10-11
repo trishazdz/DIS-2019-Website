@@ -282,20 +282,8 @@ enableGitInfo = false
   identifier = "submit"
 
 [[menu.main]]
-  name = "Program"
-  url = "/program"
-  weight = 2
-  identifier = "program"
-
-[[menu.main]]
-  name = "Authors"
-  url = "/authors"
-  weight = 3
-  identifier = "authors"
-
-[[menu.main]]
   name = "Attending"
-  url = "/attending"
+  url = "/diversity"
   weight = 4
   identifier = "attending"
 
@@ -306,10 +294,10 @@ enableGitInfo = false
   identifier = "organizers"
 
 [[menu.main]]
-  name = "Sponsors"
-  url = "/sponsors"
+  name = "Sponsor"
+  url = "/sponsor"
   weight = 6
-  identifier = "sponsors"
+  identifier = "sponsor"
 
 
 # Submit Menu

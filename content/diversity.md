@@ -8,17 +8,17 @@ We aim to provide a safe, respectful, and harassment-free conference environment
  
 We do not tolerate harassment of conference participants. Harassment includes but is not limited to overt and/or covert acts of:
  
-●      Verbal accusations or bullying
-●      Deliberate intimidation, stalking, or following both in person and online
-●      Harassing photography or recording
-●      Sustained disruption of talks or other events
-●      Interference with a person’s participation or opportunity for participation
-●      Inappropriate physical contact
-●      Unwelcome sexual attention
-●      Advocating for, or encouraging, any of the above behavior
+*     Verbal accusations or bullying
+*     Deliberate intimidation, stalking, or following both in person and online
+*     Harassing photography or recording
+*     Sustained disruption of talks or other events
+*     Interference with a person’s participation or opportunity for participation
+*     Inappropriate physical contact
+*      Unwelcome sexual attention
+*      Advocating for, or encouraging, any of the above behavior
  
 We expect all interactions between attendees to be respectful and constructive, including interactions during the review process, at the conference itself, and on social media. Conference participants violating these rules may be sanctioned or expelled from the conference (without a refund) at the discretion of the conference organizers.  
  
-Anyone witnessing or subject to unacceptable behavior should notify the General Chairs (generalchairs@dis2019.acm.org) or the Accessibility Chair (accessibilitychair@dis2019.acm.org). 
+Anyone witnessing or subject to unacceptable behavior should notify the General Chairs [generalchairs@dis2019.acm.org](mailto:generalchairs@dis2019.acm.org) or the Accessibility Chair [(accessibilitychair@dis2019.acm.org)](mailto:accessibilitychair@dis2019.acm.org).
  
 This statement was adopted from the Diversity and Inclusion Statement for ACM SIGCHI 2017.

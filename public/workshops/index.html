@@ -30,39 +30,49 @@
 <body class="single">
   <a href="#main" class="skip-link">Skip to main content</a>
 
-  <header class="header grid-x grid-padding-y align-middle">
-    <a class="site-logo cell shrink" href="/">
-      <img src="/img/DIS-logo-orange.svg"/> 
+  <header class="header site-header grid-x grid-padding-y align-middle">
+    <a class="cell shrink" href="/">
+      <img class="site-logo" src="/img/yellowlogo.png"/> 
     </a>
     
     <button class="menu-toggle hide" type="button">MENU</button>
     <nav class="menu cell shrink">
+      <ul class="dropdown menu" data-dropdown-menu>
         
         
-        <div class="">
-          <a href="#">Submit</a>
-        </div>
+          <li>
+            <a href="#">Submit</a>
+
+            
+              <ul class="menu">
+                <li>
+                  <a href="">
+                    hallelujah
+                  </a>
+                </li>
+              </ul>
+            
+          </li>
         
-        <div class="">
-          <a href="/program">Program</a>
-        </div>
+          <li>
+            <a href="/diversity">Attending</a>
+
+            
+          </li>
         
-        <div class="">
-          <a href="/authors">Authors</a>
-        </div>
+          <li>
+            <a href="/organizers">Organizers</a>
+
+            
+          </li>
         
-        <div class="">
-          <a href="/attending">Attending</a>
-        </div>
+          <li>
+            <a href="/sponsor">Sponsor</a>
+
+            
+          </li>
         
-        <div class="">
-          <a href="/organizers">Organizers</a>
-        </div>
-        
-        <div class="">
-          <a href="/sponsors">Sponsors</a>
-        </div>
-        
+      </ul>
     </nav>
   </header>
 
@@ -173,25 +183,33 @@ University of British Columbia</p>
 </main>
 </div> 
 
-</main>
 <footer class="site-footer footer">
-  <div class="grid-container grid-x">
-    <div class="cell shrink">
-      <a href="/">
+  <section class="grid-container grid-x">
+    <div class="cell shrink grid-x grid-margin-x">
+      <a class="cell auto" href="/">
         <img class="site-logo" src="/img/yellowlogo.png"/> 
+      </a>
+
+      <a class="cell auto" href="">
+        <img class="site-logo cc-logo" src="/img/CCLogo-white.svg"/>
       </a>
     </div>
 
     <div class="cell auto">
-      <img class="site-logo cc-logo" src="/img/CCLogo-white.svg"/>
     </div>
     
     <div class="cell auto">
       <a href="">Facebook</a> <br/>
 <a href="">Twitter</a> <br/>
-<a href="">Instagram</a>
+<a href="">Instagram</a> <br/>
     </div>
-  </div>
+  </section>
+
+  <section class="grid-container grid-x align-center">
+    <p class="cell">
+      All content copyright © DIS 2019
+    </p>
+  </section>
 </footer>
 
 <script src="https://cdn.bootcss.com/instantclick/3.0.1/instantclick.min.js" data-no-instant></script>

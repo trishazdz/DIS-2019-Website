@@ -57,7 +57,8 @@ Patrycja Zdziarska & Meaghan Dee
 
 <br>
 
-## Paper Sub-Committees
+# Paper Sub-Committees
+<br>
 
 ## Critical Computing and Design Theory:
 [theory_criticalcomputing_sc [at] dis2019.acm.org](mailto:theory_criticalcomputing_sc@dis2019.acm.org)  

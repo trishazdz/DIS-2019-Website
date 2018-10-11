@@ -2,20 +2,36 @@
 <div style="background-image: url(/img/long-v.svg); 
 background-position: top; background-size: 45vw;
 background-repeat: no-repeat;">
-<header class="header grid-x grid-padding-y align-middle">
-    <a class="site-logo cell shrink" href="{{.Site.BaseURL}}">
-        <img src="{{.Site.BaseURL}}img/logosmall.png"/> 
+<header class="header site-header grid-x grid-padding-y align-middle">
+    <a class="cell shrink" href="{{.Site.BaseURL}}">
+        <img class="site-logo" src="{{.Site.BaseURL}}img/logosmall.png"/> 
     </a>
     
     <button class="menu-toggle hide" type="button">MENU</button>
+
     <nav class="menu cell shrink">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <div class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
-            <a href="{{ .URL }}">{{ .Name }}</a>
-        </div>
-        {{ end }}
-    </nav>
+            <ul class="dropdown menu" data-dropdown-menu data-disable-hover="true" data-click-open="true"
+                data-close-on-click="true">
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li>
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+        
+                    {{ if .HasChildren }}            
+                    <ul class="menu">
+                        {{ range .Children }}
+                        <li>
+                            <a href="{{ .URL }}">
+                            {{ .Name }}
+                            </a>
+                        </li>
+                        {{ end }}
+                    </ul>
+                    {{ end }}
+                </li>
+                {{ end }}
+            </ul>
+        </nav>
 </header>
 
 {{ with .Site.GetPage "/about" }}
@@ -38,23 +54,23 @@ background-repeat: no-repeat;">
 
         <div class="cell large-10 grid-x grid-margin-x">
             <section class="cell auto grid-x grid-margin-x grid-margin-y">
-                <h4 class="cell large-6 medium-12">
+                <p class="cell large-6 medium-12">
                     June 23 to 28, 2019
-                </h4>
+                </p>
 
-                <h4 class="cell large-6 medium-12">
+                <p class="cell large-6 medium-12">
                     San Diego, California
-                </h4>
+                </p>
             </section>
 
-            <section class="cell auto grid-x text-right">
-                <div class="cell large-6 medium-12">
+            <section class="cell auto grid-x grid-margin-y text-right">
+                <a href="" class="cell large-6 medium-12">
                     Submit
-                </div>
+                </a>
 
-                <div class="cell large-6 medium-12">
+                <p class="cell large-6 medium-12">
                     #DIS2019
-                </div>
+                </p>
             </section>
         </div>
     </header>
@@ -64,13 +80,13 @@ background-repeat: no-repeat;">
 <section class="grid-x grid-margin-y grid-padding-y align-center light">
     <main class="cell large-10 grid-x grid-padding-x">
         <div class="cell medium-auto small-12 markdown">
-            <p class="text-center">
-                <strong>
+            <h1 class="text-center">
                 Designing Interactive Systems (DIS) 2019 <br/>
                 International Conference Series <br/>
                 Sunday June 23 to Friday June 28 2019
-                </strong>
-            </p>
+            </h1>
+
+            <br/>
 
             {{ .Content }}
         </div>
@@ -84,7 +100,7 @@ background-repeat: no-repeat;">
             </div>
 
             <div class="cell grid-x">
-                <h2>Key Dates:</h2>
+                <h1>Key Dates:</h1>
                 <ul>
                     <li></li>
                 </ul>
@@ -98,7 +114,14 @@ background-repeat: no-repeat;">
 {{ with .Site.GetPage "/organizers" }}
 <section class="grid-x grid-margin-y grid-padding-y align-center darkish">
     <main class="cell large-10 grid-x grid-padding-x">
+        
         <div class="cell medium-auto markdown">
+            <h1>
+                {{ .Title }}
+            </h1>
+
+            <br/>
+
             {{ .Content }}
         </div>
     </main>

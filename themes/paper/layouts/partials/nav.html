@@ -1,0 +1,23 @@
+<nav class="menu cell shrink">
+    <ul class="dropdown menu" data-dropdown-menu data-disable-hover="true" data-click-open="true"
+        data-close-on-click="true">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+        <li>
+            <a href="{{ .URL }}">{{ .Name }}</a>
+
+            {{ if .HasChildren }}            
+            <ul class="menu">
+                {{ range .Children }}
+                <li>
+                    <a href="{{ .URL }}">
+                    {{ .Name }}
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+            {{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</nav>

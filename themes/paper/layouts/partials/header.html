@@ -26,7 +26,7 @@
   <link href="https://fonts.googleapis.com/css?family=Bitter:400,400i,700|Open+Sans" rel="stylesheet">
   
   <link href="https://cdn.bootcss.com/highlight.js/9.12.0/styles/atom-one-dark.min.css" rel="stylesheet">
-  <link href="{{.Site.BaseURL}}css/vendor/foundation.css" rel="stylesheet">
+  <link href="{{.Site.BaseURL}}css/vendor/foundation.min.css" rel="stylesheet">
   <link href="{{.Site.BaseURL}}css/style.css" rel="stylesheet">
   <link href="{{.Site.BaseURL}}css/custom.css" rel="stylesheet">
 
@@ -44,20 +44,15 @@
 <body class="{{if eq .Kind `page` }}single{{else}}list{{ if .IsHome }} home{{ end }}{{end}}">
   <a href="#main" class="skip-link">Skip to main content</a>
 
-  <header class="header grid-x grid-padding-y align-middle">
-    <a class="site-logo cell shrink" href="{{.Site.BaseURL}}">
-      <img src="{{.Site.BaseURL}}img/DIS-logo-orange.svg"/> 
+  <header class="header site-header grid-x grid-padding-y align-middle">
+    <a class="cell shrink" href="{{.Site.BaseURL}}">
+      <img class="site-logo" src="{{.Site.BaseURL}}img/yellowlogo.png"/> 
     </a>
     
     <button class="menu-toggle hide" type="button">MENU</button>
-    <nav class="menu cell shrink">
-        {{ $currentPage := . }}
-        {{ range .Site.Menus.main }}
-        <div class="{{ if $currentPage.IsMenuCurrent `main` . }}active{{ end }}">
-          <a href="{{ .URL }}">{{ .Name }}</a>
-        </div>
-        {{ end }}
-    </nav>
+
+    {{ partial "nav" . }}
+
   </header>
 
   <div class="main-container"  style="border-left: 5em solid transparent;
